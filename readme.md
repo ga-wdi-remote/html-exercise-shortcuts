@@ -89,9 +89,9 @@ It's the moment of truth!
 
 10. Navigate back to the browser. Refresh the page with `cmd` + `r`. Do you see the new changes? Congratulations! You don't? Retrace your steps and make sure you didn't miss a step. Be extra careful about syntax. `cmd` and `ctrl` aren't the same buttons.
 
-### Reach Goal
+## Reach Goal
 
-#### #1. Javascript
+### #1. Javascript
 
 Let's keep practicing! Let's add a javascript file to the page. I won't provide the shortcuts, just the basic instructions. Remember, don't use the mouse!
 
@@ -100,16 +100,16 @@ Let's keep practicing! Let's add a javascript file to the page. I won't provide 
   3. Navigate to the `index.html`, we still have to attach our script. Right after the `<link>` tag we just created, we'll add our script tag here. Type out `script` + `TAB` and boom! There's our script boilerplate. Change the `src="script.js"`.
   4. Go back to the browser and refresh. We can see our console.log in the browser's console window with the shortcut `option` + `cmd` + `j`. You should see your message "Helloooo" on this window.
 
-#### #2. More Atom shortcuts
+### #2. More Atom shortcuts
 
   Programmers are super lazy. Why do more when you can do **less**? Check out [this Atom Shortcut Cheat-Sheet](https://www.shortcutfoo.com/app/dojos/atom-mac/cheatsheet) and try out some more fancy short-cuts. You'll look like a real cool hacker pro
 
 
-#### #3. Spectacle
+### #3. Spectacle
 
 It gets annoying really fast if your windows are all over the place and you spend more time cycling through programs than you do working! Take some time and check out [Spectacle Shortcuts](https://github.com/eczarny/spectacle#keyboard-shortcuts) and you can also manually configure your windows by clicking on the little icon at the top of your screen's toolbar.
 
-### Resources
+## Resources :books:
 
 - [Command Line Shortcuts](http://imgur.com/Omz33nF)
 - [Atom Shortcut Cheat-Sheet](https://www.shortcutfoo.com/app/dojos/atom-mac/cheatsheet)
