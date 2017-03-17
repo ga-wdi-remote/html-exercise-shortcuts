@@ -16,6 +16,10 @@ Welcome to your first morning exercise! Every morning we will start the day warm
 
 <hr>
 
+## Exercise Objectives
+* Introduce keyboard shortcuts for Mac, terminal, Atom, and Chrome
+* Gain debugging skills and be able to troubleshoot independently
+
 ## The Warm Up
 
 ### Instructions
@@ -39,11 +43,12 @@ Welcome to your first morning exercise! Every morning we will start the day warm
 
 Ok now FOR REAL, we're going to practice shortcuts and **ONLY use our keyboard** in this exercise! The less you touch your mouse, the more Pro you are :neckbeard: Let's create a website without a mouse!!
 
-:beetle: Debugging tip: `cmd` + `TAB` will cycle through your open programs' windows. While holding down `cmd`, press `tab` a couple of times to get to your desired program.
+:beetle: Debugging tip:
+`cmd` + `TAB` will cycle through your open programs' windows. While holding down `cmd`, press `tab` a couple of times to get to your desired program.
 
 ### Part 1: Setting up Atom in Terminal
 
-2. Open up terminal through Spotlight with `cmd` + `space` and type `terminal` and press `enter`. Terminal should pop up.
+1. Open up terminal through Spotlight with `cmd` + `space` and type `terminal` and press `enter`. Terminal should pop up.
 2. Turn on Spectacle through Spotlight with `cmd` + `space` and type `spectacle` and press `enter`. You should see a little pair of glasses on your toolbar.
 3. Go back to your root directory by typing `cd` in terminal.
 4. In terminal type `cd Des` (Make sure D is capitalized) and press `tab`. This should autocomplete `Desktop` for you.
